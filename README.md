@@ -13,10 +13,12 @@
   <a target="_blank" href="https://discordapp.com/users/341577500419162113">
     <img alt="Discord" src="https://img.shields.io/badge/hallze-023e8a.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
 </p>
+    
 My name is Dierlen Alexandre Bandeira, i am a Software Engineering working in the Market Intelligence team, focusing on strategic data and insights.
-
+</p>
 
 My interests lie in data analysis applied to growth strategies and performance improvement. I combine Agile and innovation methodologies with statistical and business techniques to generate value, insights, and real impact through data.
+</p>
 
 ## Technologies & Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,raspberrypi,c,css,html,vscode,postman,docker,flask,js,react,git,github,discord,windows,linux)](https://skillicons.dev)
