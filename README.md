@@ -4,6 +4,9 @@
 </h1>
 
 <p align="center" align='right'>
+  <a target="_blank" href="[mailto:dierlen84@gmail.com](https://www.linkedin.com/in/dierlen-alexandre-bandeira/)">
+    <img alt="Email" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  </a>
   <a target="_blank" href="mailto:dierlen84@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-023e8a.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
