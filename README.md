@@ -1,11 +1,11 @@
 
 <h1 align="center">
-  Hi everyone, welcome! Most of my repositories are private because the code is for the company or personal projects, but sometimes I make things public. If you have any questions, feel free to contact me 👋
+  Hi everyone, welcome! Most of my repositories are private because the code is for the company or personal projects. If you have any questions, feel free to contact me 👋
 </h1>
 
 <p align="center" align='right'>
   <a target="_blank" href="[mailto:dierlen84@gmail.com](https://www.linkedin.com/in/dierlen-alexandre-bandeira/)">
-    <img alt="Linkedin" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-023e8a.svg?style=for-the-badge&logo=linkedIn&logoColor=white" />
   </a>
   <a target="_blank" href="mailto:dierlen84@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-023e8a.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
