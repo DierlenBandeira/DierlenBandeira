@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi everyone, welcome! Most of my repositories are private because the code is for the company or personal projects. If you have any questions, feel free to contact me 👋
+  Hi guys! Most of my repositories are private because the code is for the company or personal projects. If you have any questions, feel free to contact me 👋
 </h1>
 
 <p align="center" align='right'>
