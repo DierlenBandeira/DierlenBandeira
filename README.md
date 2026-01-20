@@ -15,6 +15,7 @@
 </p>
 My name is Dierlen Alexandre Bandeira, i am a Software Engineering working in the Market Intelligence team, focusing on strategic data and insights.
 
+
 My interests lie in data analysis applied to growth strategies and performance improvement. I combine Agile and innovation methodologies with statistical and business techniques to generate value, insights, and real impact through data.
 
 ## Technologies & Languages & Tools
